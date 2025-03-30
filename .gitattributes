@@ -1,0 +1,2 @@
+linux-6.8.tar.xz filter=lfs diff=lfs merge=lfs -text
+*.tar.xz filter=lfs diff=lfs merge=lfs -text
